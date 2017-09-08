@@ -22,7 +22,7 @@
 			checking:			false,
 			loop:				null,
 			loopNumber:			0,
-			event:				{ detected: [], notDetected: [] }
+	0		0aeevent:				{ detected: [], notDetected: [] }
 		};
 		if(options !== undefined) {
 			this.setOption(options);
